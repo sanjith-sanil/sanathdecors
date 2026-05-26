@@ -50,6 +50,7 @@ export default {
       fontFamily: {
         serif: ['"Playfair Display"', 'serif'],
         sans: ['Outfit', 'sans-serif'],
+        dancing: ['"Dancing Script"', 'cursive'],
       },
       backdropBlur: {
         xs: '2px',

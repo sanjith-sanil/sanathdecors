@@ -79,7 +79,7 @@ export function Hero({ onOpenBooking }) {
             transition={{ duration: 0.8, ease: "easeOut" }}
             className="max-w-4xl"
           >
-            <h1 className="font-serif text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-white leading-tight mb-4 drop-shadow-md">
+            <h1 className="font-dancing text-5xl sm:text-7xl lg:text-8xl font-bold tracking-wide text-white leading-tight mb-4 drop-shadow-md">
               <span className="text-white">Designs by </span>
               <span className="text-gold-400 drop-shadow-[0_2px_10px_rgba(212,175,55,0.2)] block sm:inline">
                 {siteData.companyName}
